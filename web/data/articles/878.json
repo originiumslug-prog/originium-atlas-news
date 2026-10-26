@@ -1,0 +1,22 @@
+{
+  "id": 878,
+  "title": "【重要】Twitterアカウント連携の順次終了",
+  "category": "お知らせ",
+  "publishedAt": 1688378400000,
+  "offlineAt": 0,
+  "url": "https://arknights.jp/news/878",
+  "image": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/07/17/23stEOrz.png",
+  "bodyHtml": "<p><img src=\"https://webusstatic.yo-star.com/uy0news/aj/3ff4e01148f0abb084d9fb853cec9259.jpg\" alt=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer\"></p><p> </p><p>いつも『アークナイツ』をプレイしていただき、誠にありがとうございます。</p><p> </p><p> </p><p><strong>TwitterのAPI変更、ゲームアプリの仕様調整および技術的な理由等により、Twitterアカウント連携を順次終了（機能停止）する予定となりました。</strong></p><p>※Twitterアカウント連携機能の終了スケジュールにつきましては、具体的な日程が決まり次第、アークナイツ公式Twitterアカウント（<a href=\"https://twitter.com/ArknightsStaff\" target=\"_blank\" rel=\"noopener noreferrer\">@ArknightsStaff</a>）やゲーム内お知らせおよび公式ホームページでお知らせいたします。</p><p> </p><p> </p><p><span>Twitterアカウント連携機能の終了後、すでに連携済みのTwitterアカウントでもゲームへのログインおよびデータ引き継ぎができなくなります。</span></p><p><span>このため、早めにTwitterアカウント連携以外の方法でアカウント連携（紐づけ）を行うようお願い申し上げます。</span></p><p> </p><hr><p> </p><h3><span>◆Yostarアカウント連携および引き継ぎの手順</span></h3><p> </p><p><strong>■Yostarアカウントで連携する方法</strong></p><p> </p><p><img src=\"https://webusstatic.yo-star.com/uy0news/aj/ac4cd76dd10d28decb73febad3864581.png\" alt=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer\"></p><p> </p><p>（１）ホーム画面の左上にある「設定」から「連携」→「アカウント管理」の中から Yostar の右にある「連携する」をタップ。</p><p>（２）任意のメールアドレスを入力して「認証コードを送信」をタップ。</p><p>（３）届いたメールに記載されている認証コードを入力して「OK」をタップ。</p><p>「連携する」ボタンが「解除する」に変わり、その下に連携したメールアドレスが記載されていれば連携完了。</p><p> </p><p><strong>▼引き継ぎの手順</strong></p><p>（１）アプリ起動後の「TAP TO START」画面で、左下にある「アカウント管理」からYostarのアイコンを選択。</p><p>（２）連携したメールアドレスを入力して「認証コードを送信」をタップ。</p><p>（３）届いたメールに記載されている認証コードを入力して「OK」をタップすることで、該当アカウントの引き継ぎが完了。</p><p> </p><p>※iOS端末、Android端末の引き継ぎにも対応可能なYostarアカウントによる連携を推奨しています。</p><p> </p><hr><p> </p><p>これからもドクター様が安心して『アークナイツ』をプレイしていただけるように万全を期してまいります。</p><p>皆様の大切なアカウントを守るためにも、どうかご理解とご協力の程よろしくお願い申し上げます。</p><p> </p><p>今後とも『アークナイツ』をよろしくお願いいたします。</p>",
+  "excerpt": "いつも『アークナイツ』をプレイしていただき、誠にありがとうございます。 TwitterのAPI変更、ゲームアプリの仕様調整および技術的な理由等により、Twitterアカウント連携を順次終了（機能停止）する予定となりました。 ※Twitterアカウント連携機能の終了スケジュールにつきましては、具体的な日程が決まり次第、アークナイツ公式Twitterアカウント（",
+  "sourceSha256": "d01bfcda13e818cfd9ff65a3e73dd5bcfb05183753988f3258fd10b6c3ed877d",
+  "imageUrls": [
+    "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/07/17/23stEOrz.png",
+    "https://webusstatic.yo-star.com/uy0news/aj/3ff4e01148f0abb084d9fb853cec9259.jpg",
+    "https://webusstatic.yo-star.com/uy0news/aj/ac4cd76dd10d28decb73febad3864581.png"
+  ],
+  "unsupported": [],
+  "imageFiles": [],
+  "imagesMirrored": false,
+  "checkedAt": "2026-10-26T14:40:27.747627+00:00",
+  "firstSeenAt": "2026-10-26T14:40:27.747630+00:00"
+}

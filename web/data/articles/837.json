@@ -1,0 +1,21 @@
+{
+  "id": 837,
+  "title": "サーバー更新のお知らせ",
+  "category": "メンテナンス",
+  "publishedAt": 1702642500000,
+  "offlineAt": 0,
+  "url": "https://arknights.jp/news/837",
+  "image": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/07/17/CNhXoz3k.png",
+  "bodyHtml": "<p><img src=\"https://webusstatic.yo-star.com/uy0news/aj/3ff4e01148f0abb084d9fb853cec9259.jpg\" alt=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer\"></p><p> </p><p>いつも『アークナイツ』をプレイしていただき、ありがとうございます。</p><p><span>サーバーの安定性向上のため、サーバー更新を実施いたします。</span></p><p> </p><h3><span>◆実施日時</span></h3><p><span>2023年12月15日（金）23:00 ~ 23:10</span></p><p> </p><h3><span>◆注意事項</span></h3><p>・サーバー更新の時間帯にプレイが中断され、ログアウトされる場合があります。</p><p>・サーバー更新の時刻は、前後する場合がございます。</p><p> </p><hr><p> </p><p>今後とも『アークナイツ』をよろしくお願いいたします。</p>",
+  "excerpt": "いつも『アークナイツ』をプレイしていただき、ありがとうございます。 サーバーの安定性向上のため、サーバー更新を実施いたします。 ◆実施日時 2023年12月15日（金）23:00 ~ 23:10 ◆注意事項 ・サーバー更新の時間帯にプレイが中断され、ログアウトされる場合があります。 ・サーバー更新の時刻は、前後する場合がございます。 今後とも『アークナイツ』",
+  "sourceSha256": "b560df5470afa83aad56e7d8f81e4f69e2482a471f41218821e91b554ac59cc2",
+  "imageUrls": [
+    "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/07/17/CNhXoz3k.png",
+    "https://webusstatic.yo-star.com/uy0news/aj/3ff4e01148f0abb084d9fb853cec9259.jpg"
+  ],
+  "unsupported": [],
+  "imageFiles": [],
+  "imagesMirrored": false,
+  "checkedAt": "2026-10-26T14:40:20.645186+00:00",
+  "firstSeenAt": "2026-10-26T14:40:20.645189+00:00"
+}
