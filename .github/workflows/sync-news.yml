@@ -1,0 +1,65 @@
+name: 日本公式ニュースの取得
+on:
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: 過去記事を全件照合する（通常はfalse）
+        type: boolean
+        default: false
+      download_images:
+        description: 画像本体も保存する（再配信条件と容量を確認後に有効化）
+        type: boolean
+        default: false
+  schedule:
+    - cron: '41 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: official-news-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: 取得器のテスト
+        run: python -m unittest discover -s tests -v
+      - name: 公式ニュースの取得
+        id: sync
+        env:
+          BACKFILL: ${{ inputs.backfill }}
+          INPUT_MIRROR: ${{ inputs.download_images }}
+          MIRROR: ${{ vars.MIRROR_NEWS_IMAGES }}
+        run: |
+          args=(--pages 2)
+          full_due=$(python -c "import json,pathlib,datetime as d; p=pathlib.Path('web/data/index.json'); x=json.loads(p.read_text()) if p.exists() else {}; t=x.get('lastFullScanAt'); print('true' if not t or (d.datetime.now(d.timezone.utc)-d.datetime.fromisoformat(t)).total_seconds()>86400 else 'false')")
+          if [ "$BACKFILL" = "true" ] || [ "$full_due" = "true" ]; then
+            args=(--backfill --pages 40)
+          fi
+          if [ "$INPUT_MIRROR" = "true" ] || [ "$MIRROR" = "true" ]; then
+            args+=(--download-images)
+          fi
+          set +e
+          python tools/sync_news.py "${args[@]}"
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: 正常取得分と状態を保存
+        if: always() && steps.sync.outputs.code != ''
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add web/data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official Japanese news'
+            git push
+          fi
+      - name: 失敗・部分取得を通知
+        if: steps.sync.outputs.code != '0'
+        run: |
+          echo 'ニュース取得は失敗または部分成功です。web/data/status.jsonを確認してください。' >&2
+          exit 1
