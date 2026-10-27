@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-10-27T02:12:07.802024+00:00",
-  "lastSuccessfulCheckAt": "2026-10-27T02:12:07.802024+00:00",
+  "lastAttemptAt": "2026-10-27T03:10:47.266602+00:00",
+  "lastSuccessfulCheckAt": "2026-10-27T03:10:47.266602+00:00",
   "lastFullScanAt": "2026-10-26T14:40:49.783658+00:00",
-  "officialCount": 487,
+  "officialCount": 488,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 4993,
+      "title": "データ更新のお知らせ",
+      "category": "メンテナンス",
+      "publishedAt": 1793070000440,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/4993",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/10/26/lTAt956y.png",
+      "excerpt": "いつも『アークナイツ』をプレイしていただき、ありがとうございます。 2026年10月28日（水）16:00 にて、データ更新を実施いたします。 ◆実施日時 2026年10月28日（水）16:00 ~ 16:10 ◆対応内容の詳細 ▼実装準備および更新内容 ・常設生息演算「新たな礎」の実装準備 ・セレクトスカウトの開催準備 ・期間限定パックの販売準備 ・ID情",
+      "sourceSha256": "5eb9d20cd08f27bab697056b9a601074cf1c2559e5a58f6589f90df493e5c316",
+      "checkedAt": "2026-10-27T03:10:45.425803+00:00",
+      "imagesMirrored": false,
+      "path": "articles/4993.json",
+      "imagePath": null
+    },
     {
       "id": 4977,
       "title": "常設生息演算「新たな礎」",
