@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-03T01:41:54.564234+00:00",
-  "lastSuccessfulCheckAt": "2026-11-03T01:41:54.564234+00:00",
+  "lastAttemptAt": "2026-11-03T03:27:18.018257+00:00",
+  "lastSuccessfulCheckAt": "2026-11-03T03:27:18.018257+00:00",
   "lastFullScanAt": "2026-11-02T19:30:31.136999+00:00",
-  "officialCount": 488,
+  "officialCount": 489,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 4997,
+      "title": "サイドストーリー「命ある者の旅」復刻ライト版",
+      "category": "イベント",
+      "publishedAt": 1793674800588,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/4997",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/10/27/t7wf_7Bi.png",
+      "excerpt": "◆イベント概要 11月5日から、サイドストーリー「命ある者の旅」が復刻ライト版となって再登場！ 本イベントでは、イベントアイテム「祝福のおしゃぶり」を集めることで、様々な報酬を入手できます。 また、任務【MT-5をクリア】を達成すると、イベント限定オペレーター「★6 サンクタ・ミキサー」が加入します。 ▼イベント開催期間 聖堂を望む： 2026年11月5日（",
+      "sourceSha256": "56d23ea4c6910287a95aa6bee3bcbc1e85ea5f272968496a06b702626ab057c2",
+      "checkedAt": "2026-11-03T03:27:16.084969+00:00",
+      "imagesMirrored": false,
+      "path": "articles/4997.json",
+      "imagePath": null
+    },
     {
       "id": 4993,
       "title": "データ更新のお知らせ",
