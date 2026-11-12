@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-12T01:53:45.043307+00:00",
-  "lastSuccessfulCheckAt": "2026-11-12T01:53:45.043307+00:00",
+  "lastAttemptAt": "2026-11-12T03:24:58.957560+00:00",
+  "lastSuccessfulCheckAt": "2026-11-12T03:24:58.957560+00:00",
   "lastFullScanAt": "2026-11-12T01:53:45.043307+00:00",
-  "officialCount": 490,
+  "officialCount": 491,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 5088,
+      "title": "アークナイツ × モンスターハンター コラボ開催！",
+      "category": "イベント",
+      "publishedAt": 1794452400564,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/5088",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/11/11/-Tl13SNk.png",
+      "excerpt": "◆イベント概要 アークナイツ × モンスターハンター コラボイベント、サイドストーリー「泡影を穿つ碧雷」、11月16日からスタート！ 本イベントでは、イベントアイテム「錬金素材」を集めることで、様々な報酬を入手することができます。 また、任務【TD-4をクリア】を達成すると、イベント限定オペレーター「★1 ロドス隠密隊」が加入します。 ※ 画像は開発中のもの",
+      "sourceSha256": "81e4e4718b767b3853959e79080dc3861e842dc7a4f7d770323c854ff6d9d6ce",
+      "checkedAt": "2026-11-12T03:24:56.556506+00:00",
+      "imagesMirrored": false,
+      "path": "articles/5088.json",
+      "imagePath": null
+    },
     {
       "id": 4998,
       "title": "データ更新のお知らせ",
