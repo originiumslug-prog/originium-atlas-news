@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-13T12:32:00.811668+00:00",
-  "lastSuccessfulCheckAt": "2026-11-13T12:32:00.811668+00:00",
+  "lastAttemptAt": "2026-11-13T13:47:52.441322+00:00",
+  "lastSuccessfulCheckAt": "2026-11-13T13:47:52.441322+00:00",
   "lastFullScanAt": "2026-11-13T03:27:05.998022+00:00",
   "officialCount": 491,
   "imageMode": "official-links",
