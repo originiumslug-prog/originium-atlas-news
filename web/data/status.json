@@ -1,9 +1,10 @@
 {
-  "startedAt": "2026-11-15T01:45:15.854405+00:00",
+  "startedAt": "2026-11-15T03:25:06.655625+00:00",
   "mode": "recent",
   "pages": 2,
-  "officialCount": 491,
+  "officialCount": 492,
   "seenIds": [
+    5100,
     5088,
     4998,
     4997,
@@ -42,14 +43,15 @@
     3643,
     3603,
     3535,
-    3518,
-    3487
+    3518
   ],
-  "updated": [],
+  "updated": [
+    5100
+  ],
   "errors": [],
   "imageMode": "official-links",
   "downloadedBytes": 0,
   "completeBackfill": false,
-  "finishedAt": "2026-11-15T01:45:19.713559+00:00",
+  "finishedAt": "2026-11-15T03:25:10.549914+00:00",
   "status": "ok"
 }

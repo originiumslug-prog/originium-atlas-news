@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-15T01:45:19.713559+00:00",
-  "lastSuccessfulCheckAt": "2026-11-15T01:45:19.713559+00:00",
+  "lastAttemptAt": "2026-11-15T03:25:10.549914+00:00",
+  "lastSuccessfulCheckAt": "2026-11-15T03:25:10.549914+00:00",
   "lastFullScanAt": "2026-11-14T04:30:02.439395+00:00",
-  "officialCount": 491,
+  "officialCount": 492,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 5100,
+      "title": "データ更新のお知らせ",
+      "category": "メンテナンス",
+      "publishedAt": 1794711600521,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/5100",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/11/13/haI5aVe9.png",
+      "excerpt": "いつも『アークナイツ』をプレイしていただき、ありがとうございます。 2026年11月16日（月）16:00 にて、データ更新を実施いたします。 ◆実施日時 2026年11月16日（月）16:00 ~ 16:10 ◆対応内容の詳細 ▼実装準備および更新内容 ・サイドストーリー「泡影を穿つ碧雷」の実装準備 ・イベントスカウト「幽境を征く狩人」の開催準備 ・スタン",
+      "sourceSha256": "3410085b9da93068ba4d1b031fd285fc671a03faddfbba3537f4ca4fc9b043c8",
+      "checkedAt": "2026-11-15T03:25:08.487281+00:00",
+      "imagesMirrored": false,
+      "path": "articles/5100.json",
+      "imagePath": null
+    },
     {
       "id": 5088,
       "title": "アークナイツ × モンスターハンター コラボ開催！",
