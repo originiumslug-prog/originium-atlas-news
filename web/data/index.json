@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-20T01:49:50.210327+00:00",
-  "lastSuccessfulCheckAt": "2026-11-20T01:49:50.210327+00:00",
+  "lastAttemptAt": "2026-11-20T03:24:38.747262+00:00",
+  "lastSuccessfulCheckAt": "2026-11-20T03:24:38.747262+00:00",
   "lastFullScanAt": "2026-11-19T06:34:18.857268+00:00",
-  "officialCount": 492,
+  "officialCount": 493,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 5160,
+      "title": "「ポジションサッカー選手権」",
+      "category": "イベント",
+      "publishedAt": 1795143600515,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/5160",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/11/19/N02bs3uM.png",
+      "excerpt": "◆イベント概要 期間限定イベント「ポジションサッカー選手権」、11月23日からスタート！ イベントステージをクリアして、「選手権ポイント券」を集めることで、ウルフェナイト専用コーデ「躍動するリズム」を含む、様々な報酬を入手できます。 ▼イベント開催期間 2026年11月23日（月）16:00 ~ 2026年12月7日（月）3:59 ▼報酬受取期間 2026年",
+      "sourceSha256": "602341b9388bc13e97d3c5132ae87c76bc65b9ae7dd6a692ea3396b9ec9756f7",
+      "checkedAt": "2026-11-20T03:24:36.748547+00:00",
+      "imagesMirrored": false,
+      "path": "articles/5160.json",
+      "imagePath": null
+    },
     {
       "id": 5100,
       "title": "データ更新のお知らせ",
