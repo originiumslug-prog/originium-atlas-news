@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-22T01:49:33.057161+00:00",
-  "lastSuccessfulCheckAt": "2026-11-22T01:49:33.057161+00:00",
+  "lastAttemptAt": "2026-11-22T03:25:32.788487+00:00",
+  "lastSuccessfulCheckAt": "2026-11-22T03:25:32.788487+00:00",
   "lastFullScanAt": "2026-11-21T07:48:58.743821+00:00",
-  "officialCount": 493,
+  "officialCount": 494,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 5161,
+      "title": "データ更新のお知らせ",
+      "category": "メンテナンス",
+      "publishedAt": 1795316400318,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/5161",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/11/19/sCkrdvpm.png",
+      "excerpt": "いつも『アークナイツ』をプレイしていただき、ありがとうございます。 2026年11月23日（月）16:00 にて、データ更新を実施いたします。 ◆実施日時 2026年11月23日（月）16:00 ~ 16:10 ◆対応内容の詳細 ▼実装準備および更新内容 ・「ポジションサッカー選手権」の開催準備 ・コーデの販売準備 ・スタンプラリーの開催準備 ※ 各イベント",
+      "sourceSha256": "7f989daab0d4b2ed89b0757e0d75f05e1156d40299aed0e4ed088a97b4c00ae6",
+      "checkedAt": "2026-11-22T03:25:30.329443+00:00",
+      "imagesMirrored": false,
+      "path": "articles/5161.json",
+      "imagePath": null
+    },
     {
       "id": 5160,
       "title": "「ポジションサッカー選手権」",
