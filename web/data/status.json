@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-27T10:05:45.503569+00:00",
+  "startedAt": "2026-11-27T19:37:43.303354+00:00",
   "mode": "recent",
   "pages": 2,
   "officialCount": 495,
@@ -45,13 +45,11 @@
     3700,
     3643
   ],
-  "updated": [
-    5221
-  ],
+  "updated": [],
   "errors": [],
   "imageMode": "official-links",
   "downloadedBytes": 0,
   "completeBackfill": false,
-  "finishedAt": "2026-11-27T10:05:48.907686+00:00",
+  "finishedAt": "2026-11-27T19:37:47.064787+00:00",
   "status": "ok"
 }
