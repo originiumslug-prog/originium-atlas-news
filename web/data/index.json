@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
   "source": "https://arknights.jp/api/resource/news/list",
-  "lastAttemptAt": "2026-11-27T00:47:46.631819+00:00",
-  "lastSuccessfulCheckAt": "2026-11-27T00:47:46.631819+00:00",
+  "lastAttemptAt": "2026-11-27T10:05:48.907686+00:00",
+  "lastSuccessfulCheckAt": "2026-11-27T10:05:48.907686+00:00",
   "lastFullScanAt": "2026-11-27T00:47:46.631819+00:00",
-  "officialCount": 494,
+  "officialCount": 495,
   "imageMode": "official-links",
   "articles": [
+    {
+      "id": 5221,
+      "title": "アークナイツ × モンスターハンター 復刻開催！",
+      "category": "イベント",
+      "publishedAt": 1795748400487,
+      "offlineAt": 0,
+      "url": "https://arknights.jp/news/5221",
+      "image": "https://webusstatic.yo-star.com/web-cms-test/upload/content/2026/11/26/q45i5aSV.png",
+      "excerpt": "◆イベント概要 11月30日から、アークナイツ × モンスターハンター コラボイベント、サイドストーリー「紅炎遣らう落葉」が復刻ライト版となって再登場！ 本イベントでは、イベントアイテム「錬金素材」を集めることで、様々な報酬を入手することができます。 また、任務【CF-4をクリア】を達成すると、イベント限定オペレーター「★1 テラ大陸調査団」が加入します。 ",
+      "sourceSha256": "d1b414d109e2557af2448ed8aa56bbcd1dd83d49cf2abb7a9c6ec7600480a43b",
+      "checkedAt": "2026-11-27T10:05:47.130556+00:00",
+      "imagesMirrored": false,
+      "path": "articles/5221.json",
+      "imagePath": null
+    },
     {
       "id": 5161,
       "title": "データ更新のお知らせ",
